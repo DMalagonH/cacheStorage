@@ -1,6 +1,7 @@
 /**
  * Caché de datos en el navegador simulado con localStorage
  *
+ * Date: 2016-11-22
  * @author Diego Malagon <diegomalagonh@gmail.com>
  */
 cacheStorage = (function(unique_id){
